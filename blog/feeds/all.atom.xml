@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41136103協同產品設計</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-03-14T15:00:00+08:00</updated><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w4.html" rel="alternate"></link><published>2024-03-14T15:00:00+08:00</published><updated>2024-03-14T09:07:48+08:00</updated><author><name>41136103</name></author><id>tag:None,2024-03-14:./2024-Spring-w4.html</id><summary type="html">&lt;p&gt;-blog-tutorial
-Author: kmol&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;-blog-tutorial
-Author: kmol&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41136103協同產品設計</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-03-21T15:00:00+08:00</updated><entry><title>2024 Spring 課程W5</title><link href="./2024-Spring-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-21T15:00:00+08:00</published><updated>2024-03-21T07:57:48+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-21:./2024-Spring-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;W5課程網誌心得&lt;/h1&gt;
+&lt;h2&gt;課程主旨&lt;/h2&gt;
+&lt;p&gt;協同產品設計實習的第五週, 教學內容為先前影片整理、分組網誌的統整與 NX 零組件繪圖.&lt;/p&gt;
+&lt;h2&gt;學習進度&lt;/h2&gt;
+&lt;p&gt;繼續翻譯老師給的網站，我負責75頁至87頁。&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category></entry><entry><title>About</title><link href="./about.html" rel="alternate"></link><published>2024-03-21T07:44:03+08:00</published><updated>2024-03-21T07:44:03+08:00</updated><author><name>41136103</name></author><id>tag:None,2024-03-21:./about.html</id><content type="html">&lt;h1&gt;cmsimde 內容管理系統&lt;/h1&gt;
+&lt;p&gt;倉儲: &lt;a href="https://41136103.github.io/cd2024/"&gt;https://github.com/mdecycu/cmsimde_site&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;網站: &lt;a href="     https://41136103.github.io/cd2024/"&gt;https://mde.tw/cmsimde_site/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;簡報: &lt;a href="https://41136103.github.io/cd2024/reveal"&gt;https://mde.tw/cmsimde_site/reveal&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;網誌: &lt;a href="https://41136103.github.io/cd2024/blog"&gt;https://mde.tw/cmsimde_site/blog&lt;/a&gt;&lt;/p&gt;</content><category term="misc"></category></entry><entry><title>2024 Spring 課程W4</title><link href="./2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-14T15:00:00+08:00</published><updated>2024-03-21T07:59:05+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-14:./2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
 &lt;h1&gt;W4課程網誌心得&lt;/h1&gt;
 &lt;h2&gt;課程主旨&lt;/h2&gt;
 &lt;p&gt;協同產品設計實習的第四週, 各分組需要明確界定任務需求與分工時序, 隨著各組協同設計流程的進行, 分組倉儲與網站的改版越發複雜, 此時若導入 Source Tree 協助各組員更清楚看到倉儲改版架構, 另外 Git Branch 的應用。&lt;/p&gt;
 &lt;h2&gt;翻譯文章&lt;/h2&gt;
-&lt;p&gt;翻譯老師給的文章。&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-03-14T07:28:08+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;翻譯老師給的文章。&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程W3</title><link href="./2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-07T15:00:00+08:00</published><updated>2024-03-21T07:58:00+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-07:./2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+&lt;h1&gt;W4課程網誌心得&lt;/h1&gt;
+&lt;h2&gt;課程主旨&lt;/h2&gt;
+&lt;p&gt;2024 Spring 協同產品設計實習的第三週, 主要說明如何善用 Github Codespaces 與 Gitpod, 以及將組員倉儲設為分組倉儲的子模組, 同時導入 LaTeX 轉 pdf 機制, 啟動期中分組報告的製作&lt;/p&gt;
+&lt;h2&gt;學習成果&lt;/h2&gt;
+&lt;p&gt;利用 github and replit 把網站建起來，並且利用 replit 寫我現今正在寫的網誌。&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-03-14T07:28:08+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
