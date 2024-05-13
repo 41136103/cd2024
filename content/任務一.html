@@ -143,20 +143,7 @@ img.add_border {
 
         </header>
     <div id="tipue_search_content">W10 << <a href='W10.html'>Previous</a> <a href='任務二(文章1-6).html'>Next</a> >> 任務二(文章1-6)<br /><h1>任務一</h1>
-<p>根據老師所給的 2b.txt 裡的['學號', 'Github 帳號', '組別']，以下是利用 Python 寫的初步資料數列。</p>
-<p>&lt;pre class="brush: python"&gt;<br/> from browser import window, ajax</p>
-<p>def fetch_csv_data():<br/> # CSV 檔案網址<br/> url = "https://mdecd2024.github.io/2bstud-2bsite/downloads/2b.txt"</p>
-<p>def on_complete(req):<br/> if req.status == 200 or req.status == 0:<br/> # 讀取 CSV 檔案內容<br/> content = req.text</p>
-<p># 依照換行符號拆分資料<br/> lines = content.split('\n')</p>
-<p># 建立空列表儲存資料<br/> data = []</p>
-<p># 遍歷每一行資料<br/> for line in lines:<br/> # 忽略空白行<br/> if line.strip() == "":<br/> continue</p>
-<p># 依照逗號拆分資料<br/> items = line.split(',')</p>
-<p># 將拆分後的資料加入列表<br/> data.append(items)</p>
-<p># 印出結果<br/> print(data)<br/> else:<br/> print("Error:", req.text)</p>
-<p># 發送 AJAX 請求<br/> req = ajax.ajax()<br/> req.bind('complete', on_complete)<br/> req.open('GET', url, True)<br/> req.set_header('content-type', 'application/x-www-form-urlencoded')<br/> req.send()</p>
-<p># 呼叫函式讀取 CSV 資料<br/> fetch_csv_data()<br/>&lt;/pre&gt;</p>
-<p>只要透過 for 重複迴圈, 就可以從上列資料中每位學員的基本資料 (學號、Github 帳號與組別) 中直接在網頁建立所需的 html。</p>
-<p>並列出-學員倉儲連結/學員網站連結/2b 分組倉儲連結 template: https://github.com/mdecd2024/2b-midag組別。</p>
+<p>根據老師所給的 2b.txt 裡的['學號', 'Github 帳號', '組別']。只要透過 for 重複迴圈, 就可以從上列資料中每位學員的基本資料 (學號、Github 帳號與組別) 中直接在網頁建立所需的 html。並列出-學員倉儲連結/學員網站連結/2b 分組倉儲連結 template: https://github.com/mdecd2024/2b-midag組別。</p>
 <br />W10 << <a href='W10.html'>Previous</a> <a href='任務二(文章1-6).html'>Next</a> >> 任務二(文章1-6)</div>
 
     <!-- footer -->
