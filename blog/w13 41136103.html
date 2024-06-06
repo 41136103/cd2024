@@ -59,7 +59,7 @@
 <meta property="og:url" content="./w13 41136103.html"/>
 <meta property="og:type" content="article"/>
 <meta property="article:published_time" content="2024-05-16 15:00:00+08:00"/>
-<meta property="article:modified_time" content="2024-05-26 08:34:20.472583+08:00"/>
+<meta property="article:modified_time" content="2024-06-06 05:03:55.417589+08:00"/>
 <meta property="article:author" content="./author/kmol.html">
 <meta property="article:section" content="41136103-w13"/>
 <meta property="article:tag" content="網誌編寫 41136103"/>
@@ -74,7 +74,7 @@
   "name": "2024 Spring 課程 41136103",
   "headline": "2024 Spring 課程 41136103",
   "datePublished": "2024-05-16 15:00:00+08:00",
-  "dateModified": "2024-05-26 08:34:20.472583+08:00",
+  "dateModified": "2024-06-06 05:03:55.417589+08:00",
   "author": {
     "@type": "Person",
     "name": "kmol",
@@ -210,7 +210,7 @@ init_mathjax();
             | <time datetime="Thu 16 May 2024">Thu 16 May 2024</time>
         </span>
         <!-- TODO : Modified check -->
-            <span class="post-meta"> | Updated on Sun 26 May 2024</span>
+            <span class="post-meta"> | Updated on Thu 06 June 2024</span>
             <div class="post-cover cover" style="background-image: url('./theme/images/post-bg.jpg')">
       </div>
     </header>
@@ -235,7 +235,20 @@ init_mathjax();
 
 <h1>W13課程網誌心得</h1>
 <h2>課程主旨</h2>
+<p>2024 Spring:模擬場景建構 ,利用零件 Hole 產生對應 Cylinder 元件 ,在 CoppeliaSim Divide 組立件</p>
 <h2>學習成果</h2>
+<h3>1.模擬場景建構</h3>
+<p>從 Solvespace 匯出一個 120mmx120mm 的平台到 CoppeliaSim 時，如果保持 1:1 的比例，導入後會變成一個 120m x 120m 的平台，實在是太大了。但如果選擇自動縮放，比例設為 0.01，導入後會得到一個 120cm x 120cm 的平台，這樣就合理多了。在這過程中，要確保座標系統和方向是準確對應的，特別是 Y 軸應該指向上方。這和使用 Siemens NX 繪製零件時的考量是一致的。</p>
+<h3>2.利用零件 Hole 產生對應 Cylinder 元件</h3>
+<p>在 Shape Editor 模式下建立 Cylinder 元件的步驟如下：</p>
+<p>1.選擇帶有足夠深的孔洞的零件。</p>
+<p>2.點擊 CoppeliaSim 左側的 Shape Editor 按鈕，進入 Shape Editor 模式。</p>
+<p>3.使用滑鼠中鍵滑動，將視角對準要生成 Cylinder 元件的孔洞位置，然後利用滑鼠中間的滾輪拉近視角。</p>
+<p>4.點擊滑鼠左鍵，在 Shape Editor 中出現的內建視窗中，從 Triangle edit mode 切換到 Vertex edit mode。然後按住 Shift  鍵，使用滑鼠左鍵從左上方到右下方的方向框選整個孔洞的位置。</p>
+<p>5.將 Shape Editor 模式切回 Triangle edit mode，然後使用 Extract Cylinder 功能，以選定的 Vertex（孔洞的內壁點座標）作為基礎建立一個 Cylinder 元件。</p>
+<p>6.關閉 Shape Editor 內建的表單視窗後，無論是選擇 Yes 或 No 都可以完成從孔洞內壁點座標生成 Cylinder 的步驟。</p>
+<h3>3.在 CoppeliaSim Divide 組立件</h3>
+<p>CoppeliaSim 4.5.1 rev4 在導入 STL 組立件後，組立件會被視為一個整體零件，這對於後續的組立工作是不利的。為了進行後續的組立，我們可以使用 Edit - Shape Grouping/Merging 中的 Divide 功能將各個零件分開。然而，在 4.5.1 版本中，Divide 後所有零件將共享相同的絕對座標系，這使得後續手動組立和操控變得不太方便。為了解決這個問題，我們可以使用 Edit - Shape Reference Frame 中的 relocate to mesh center 將每個零件的參考座標從共同的絕對座標系轉移到各自的零件重心位置。此外，由於採用 Solvespace 繪製的鋼球平衡台沒有繪製各機構（如四連桿）的連接軸，因此在導入 CoppeliaSim 後，我們需要利用深孔，在 Shape Editor 模式下建立各連接孔的對應軸。這樣才能在後續進行定位時將轉動軸元件與新建的連接軸位置和方位進行配合。</p>
             </section>
 
             <section class="post-info">

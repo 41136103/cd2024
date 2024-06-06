@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41136103協同產品設計 - 41136103-w14</title><link href="./" rel="alternate"></link><link href="./feeds/41136103-w14.atom.xml" rel="self"></link><id>./</id><updated>2024-05-26T08:35:13+08:00</updated><entry><title>2024 Spring 課程 41136103</title><link href="./w14%2041136103.html" rel="alternate"></link><published>2024-05-23T15:00:00+08:00</published><updated>2024-05-26T08:35:13+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-05-23:./w14 41136103.html</id><summary type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程 w14網誌&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41136103協同產品設計 - 41136103-w14</title><link href="./" rel="alternate"></link><link href="./feeds/41136103-w14.atom.xml" rel="self"></link><id>./</id><updated>2024-06-06T05:08:21+08:00</updated><entry><title>2024 Spring 課程 41136103</title><link href="./w14%2041136103.html" rel="alternate"></link><published>2024-05-23T15:00:00+08:00</published><updated>2024-06-06T05:08:21+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-05-23:./w14 41136103.html</id><summary type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程 w14網誌&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程 w14網誌&lt;/p&gt;
 
 
-&lt;h1&gt;W13課程網誌心得&lt;/h1&gt;
-&lt;h2&gt;課程主旨&lt;/h2&gt;
-&lt;h2&gt;學習成果&lt;/h2&gt;</content><category term="41136103-w14"></category><category term="網誌編寫 41136103"></category></entry></feed>
+&lt;h1&gt;W14課程網誌心得&lt;/h1&gt;
+&lt;p&gt;## CoppeliaSim 的操作 (足球場)&lt;/p&gt;
+&lt;p&gt;在將足球場景導入CoppeliaSim之前，需要進行一系列網路設置和調整，包括查找自己的IPv4網路地址、關閉防火牆，並將內部程式的網路設置更改為對應的IPv4。這些步驟是為了確保能夠順利執行虛擬網頁操作。然而，儘管網路設置和防火牆已經調整完成，但仍然遇到了無法成功執行操作的問題。此時需要進一步檢查可能的網路配置問題或防火牆設置，並確保它們與整個網路環境的兼容性。&lt;/p&gt;</content><category term="41136103-w14"></category><category term="網誌編寫 41136103"></category></entry></feed>
