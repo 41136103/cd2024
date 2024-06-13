@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41136103協同產品設計 - w8 41136103</title><link href="./" rel="alternate"></link><link href="./feeds/w8-41136103.atom.xml" rel="self"></link><id>./</id><updated>2024-04-22T09:52:59+08:00</updated><entry><title>2024 Spring 課程 41136103</title><link href="./w8.html" rel="alternate"></link><published>2024-04-11T15:00:00+08:00</published><updated>2024-04-22T09:52:59+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-11:./w8.html</id><summary type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程 w8網誌&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41136103協同產品設計 - w8 41136103</title><link href="./" rel="alternate"></link><link href="./feeds/w8-41136103.atom.xml" rel="self"></link><id>./</id><updated>2024-06-13T13:44:49+08:00</updated><entry><title>2024 Spring 課程 41136103</title><link href="./w8.html" rel="alternate"></link><published>2024-04-11T15:00:00+08:00</published><updated>2024-06-13T13:44:49+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-04-11:./w8.html</id><summary type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程 w8網誌&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程 w8網誌&lt;/p&gt;
 
 
@@ -7,9 +7,14 @@
 &lt;h2&gt;課程主旨&lt;/h2&gt;
 &lt;p&gt;小組討論，課成自評。&lt;/p&gt;
 &lt;h2&gt;學習成果&lt;/h2&gt;
-&lt;p&gt;影片上字幕-第五週的小組任務，我在第8週完成。我負責第1部、第2部老師教學影片。&lt;/p&gt;
-&lt;p&gt;雲端連結:&lt;/p&gt;
+&lt;p&gt;(學習成果只是對這堂課的理解，並非皆有完成任務)&lt;/p&gt;
+&lt;p&gt;影片上字幕-第五週的小組任務，我在第8週完成。我負責第1部、第2部老師教學影片。
+雲端連結:&lt;/p&gt;
 &lt;p&gt;第一部:&lt;/p&gt;
 &lt;p&gt;https://drive.google.com/drive/folders/1-_MkEWcKZbGWFPy5ekZkn_MFUKlkAiZY?usp=drive_link&lt;/p&gt;
 &lt;p&gt;第二部:&lt;/p&gt;
-&lt;p&gt;https://drive.google.com/drive/folders/1oBe1LVRF5gM0aU8veOOPygQ3iWASOeRz?usp=drive_link&lt;/p&gt;</content><category term="w8 41136103"></category><category term="網誌編寫 41136103"></category></entry></feed>
+&lt;p&gt;https://drive.google.com/drive/folders/1oBe1LVRF5gM0aU8veOOPygQ3iWASOeRz?usp=drive_link&lt;/p&gt;
+&lt;p&gt;學習過程:
+觀看影片後我只有跟著操作一半，剩下另一半則是看另一部影片，所以是以這兩部影片進行學習如何上字幕，這個youtube 影片是 youtube 搜索 "終於找到超快上字幕的方法了 ( 剪映 V.S 雅婷小姐)" 這部影片，我在第一部影片跟著學習時遇到了瓶頸，因為"AI"上字幕教學｜OpenAI Whisper 教學｜免費自動字幕 (逐字稿) 生成軟體 WhisperDesktop"這部影片的後半段是叫我把字幕變成jpg圖片檔在導入影片剪輯軟體內進行上字幕，但是她影片裡上字幕用的編輯軟體是要付費的，所以我又尋找了第二部影片，第二部影片告訴我可以用第一部影片所教的把影片丟入"WhisperDesktop (GitHub)"這個軟體，利用此軟體的AI轉語音的功能協助我把老師的教學影片導出cc字幕 srt檔、逐字稿 srt檔，最後再藉由第二部影片所教的，利用"剪映"這個剪片軟體導入cc字幕 srt檔，就可以成功幫老師的教學影片上字幕了。&lt;/p&gt;
+&lt;p&gt;學習心得:
+藉由此次老師要求我們上字幕，成功學習到如何將影片上字幕，還有學習使用 "剪映" 、"WhisperDesktop (GitHub)"  、"WhisperDesktop ggml 語言模組" 這些軟體、模組 工具來上字幕，更提升我自主學習的能力及知識的結合，所以我覺得本次教學影片上字幕的這個任務對我來說受益良多。&lt;/p&gt;</content><category term="w8 41136103"></category><category term="網誌編寫 41136103"></category></entry></feed>

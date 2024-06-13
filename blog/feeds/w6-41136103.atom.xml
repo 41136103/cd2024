@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41136103協同產品設計 - w6 41136103</title><link href="./" rel="alternate"></link><link href="./feeds/w6-41136103.atom.xml" rel="self"></link><id>./</id><updated>2024-05-26T08:38:00+08:00</updated><entry><title>2024 Spring 課程 41136103</title><link href="./w6.html" rel="alternate"></link><published>2024-03-28T15:00:00+08:00</published><updated>2024-05-26T08:38:00+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-28:./w6.html</id><summary type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程 w6網誌&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41136103協同產品設計 - w6 41136103</title><link href="./" rel="alternate"></link><link href="./feeds/w6-41136103.atom.xml" rel="self"></link><id>./</id><updated>2024-06-13T13:45:56+08:00</updated><entry><title>2024 Spring 課程 41136103</title><link href="./w6.html" rel="alternate"></link><published>2024-03-28T15:00:00+08:00</published><updated>2024-06-13T13:45:56+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-03-28:./w6.html</id><summary type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程 w6網誌&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 協同產品設計實習課程 w6網誌&lt;/p&gt;
 
 
@@ -7,6 +7,17 @@
 &lt;h2&gt;課程主旨&lt;/h2&gt;
 &lt;p&gt;協同產品設計實習的第六週, 說明協同 NX 零組件繪圖以及 CoppeliaSim 場景模擬相關檔案格式。&lt;/p&gt;
 &lt;h2&gt;學習成果&lt;/h2&gt;
+&lt;p&gt;(學習成果只是對這堂課的理解，並非皆有完成任務)&lt;/p&gt;
 &lt;p&gt;1.Github Actions 帶有子模組的 main.yml 設定
 2.網誌的統整
-3.更新分組倉儲中的分組倉儲&lt;/p&gt;</content><category term="w6 41136103"></category><category term="網誌編寫 41136103"></category></entry></feed>
+3.更新分組倉儲中的分組倉儲&lt;/p&gt;
+&lt;p&gt;期中前做的事
+1.利用https://github.com/mdecycu/cmsimde_site, 作為 Template, 新增一個名稱為 cd2024 的倉儲, 並且將其 main 分支設為網頁跟目錄&lt;/p&gt;
+&lt;p&gt;2.將個人倉儲 import 至 Replit 然後維護&lt;/p&gt;
+&lt;p&gt;3.利用 Codespaces 維護倉儲與網站&lt;/p&gt;
+&lt;p&gt;4.編輯網誌，網頁&lt;/p&gt;
+&lt;p&gt;5.翻譯論文分配到的頁數&lt;/p&gt;
+&lt;p&gt;6.將指定影片上字幕&lt;/p&gt;
+&lt;p&gt;7.製作期中簡報、影片&lt;/p&gt;
+&lt;p&gt;學習心得:
+也即將接近期中，藉由這堂課和組員們討論，也統整出這幾週做了些什麼。這堂課也學習到如何與組員們做學術上的溝通與交流。&lt;/p&gt;</content><category term="w6 41136103"></category><category term="網誌編寫 41136103"></category></entry></feed>
